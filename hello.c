@@ -1,5 +1,5 @@
 /**
- * Author: Anh Nguyen & Aaron Downs 
+ * Author: Anh Nguyen & Aaron Downs
  * Date: 2019/08/27
  *
  * A simple hello world program in C
@@ -12,6 +12,8 @@ int main(int argc, char **argv) {
 
   printf("Anh Nguyen\n");
   printf("Computer Science\n");
+  printf("Aaron Downs\n");
+  printf("Computer Engineering\n");
 
   return 0;
 }
